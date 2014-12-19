@@ -11,17 +11,23 @@ html {
 	text-align: center;
 	color: #fff;
 	font-weight: 900;
+	margin-top: 80px;
 }
 
 #main h1 {
 	font-size: 7em;
+	line-height: 1em;
+	margin: 20px 0;
+}
+
+#main h2 {
+	font-size: 4em;
+	margin: 20px 0;
 }
 
 p {
-	padding: 0 25%;
 	font-size: 2em;
 	margin: 20px;
-	max-width: 75%;
 }
 
 
